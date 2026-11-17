@@ -1,0 +1,1 @@
+# HN-KS26-CNTT_promting-ai2
