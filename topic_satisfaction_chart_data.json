@@ -1,0 +1,108 @@
+{
+  "overview": {
+    "total_feedbacks": 20,
+    "valid_feedbacks": 17,
+    "invalid_feedbacks": 3
+  },
+  "by_topic": {
+    "Product": {
+      "total_mentions": 10,
+      "average_satisfaction_score": 3.1,
+      "sentiment_breakdown": {
+        "Positive": 4,
+        "Neutral": 2,
+        "Negative": 4
+      },
+      "score_distribution": {
+        "1": 3,
+        "2": 1,
+        "3": 2,
+        "4": 0,
+        "5": 4
+      },
+      "feedback_ids": [
+        "Feedback 01",
+        "Feedback 02",
+        "Feedback 04",
+        "Feedback 05",
+        "Feedback 07",
+        "Feedback 11",
+        "Feedback 14",
+        "Feedback 17",
+        "Feedback 18",
+        "Feedback 19"
+      ]
+    },
+    "Delivery": {
+      "total_mentions": 7,
+      "average_satisfaction_score": 2.86,
+      "sentiment_breakdown": {
+        "Positive": 2,
+        "Neutral": 2,
+        "Negative": 3
+      },
+      "score_distribution": {
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 0,
+        "5": 2
+      },
+      "feedback_ids": [
+        "Feedback 02",
+        "Feedback 04",
+        "Feedback 05",
+        "Feedback 07",
+        "Feedback 12",
+        "Feedback 16",
+        "Feedback 18"
+      ]
+    },
+    "Service": {
+      "total_mentions": 5,
+      "average_satisfaction_score": 2.2,
+      "sentiment_breakdown": {
+        "Positive": 1,
+        "Neutral": 1,
+        "Negative": 3
+      },
+      "score_distribution": {
+        "1": 3,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 1
+      },
+      "feedback_ids": [
+        "Feedback 05",
+        "Feedback 06",
+        "Feedback 11",
+        "Feedback 13",
+        "Feedback 15"
+      ]
+    },
+    "System": {
+      "total_mentions": 5,
+      "average_satisfaction_score": 2.2,
+      "sentiment_breakdown": {
+        "Positive": 1,
+        "Neutral": 1,
+        "Negative": 3
+      },
+      "score_distribution": {
+        "1": 3,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 1
+      },
+      "feedback_ids": [
+        "Feedback 03",
+        "Feedback 08",
+        "Feedback 13",
+        "Feedback 14",
+        "Feedback 19"
+      ]
+    }
+  }
+}
